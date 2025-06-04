@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "35950084092",
+    "project_id": "chatapptry-76b6b",
+    "storage_bucket": "chatapptry-76b6b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:35950084092:android:e47e3e3179e364b552fc79",
+        "android_client_info": {
+          "package_name": "com.example.texting_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNEkeop6__2JP0WO4QHKtARzx0dUZdLfA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
